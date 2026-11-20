@@ -1,4 +1,5 @@
 # Medical-Diagnosis-classifier-project
+This project implements an end-to-end binary classification pipeline designed to differentiate between malignant and benign tumors using the Wisconsin Breast Cancer diagnostic dataset. Built with production-ready machine learning best practices, the system emphasizes high medical recall to minimize false-negative predictions, ensuring critical clinical cases are accurately detected.
 # 🩺 Clinical Diagnostic Classification Pipeline using Stratified Cross-Validation
 
 ## 📋 Project Overview
